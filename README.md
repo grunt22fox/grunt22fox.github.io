@@ -1,2 +1,2 @@
-# grunt22fox.github.io
-my awful website lol please help me develop this piece of crap I decided to develop for ONE TIME just because I felt like it
+# Grunt's Website
+Well basically I just felt like making a trash website one day and this is the result... more information will become available as it is written lol
